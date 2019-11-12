@@ -5,3 +5,6 @@ https://api.mapbox.com/styles/v1/annija-vitolina/ck2p3zmw30byx1co0nonzi5xn.html?
 <p> Our Functional Designe </p>
 https://docs.google.com/document/d/1ZtOV7bAROTCxL-RNOoQB6ZZUnsx1svhlj--W98wUqIM/edit
 <p> Our Technical Designe </p>
+https://docs.google.com/document/d/1ZcLQ8UA9MccfZziJcutpHwKn4G-aLv4Twesm58ZZ1tg/edit
+<p> Our Backlog </p>
+https://docs.google.com/document/d/1Oz-IIRqGNwvyUVtwsF8E5NELCGbvHsZaBjiJ5DE7ogg/edit
